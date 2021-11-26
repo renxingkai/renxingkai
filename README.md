@@ -1,9 +1,15 @@
-### 你好，我是朱政烨
+### 你好，打工人!
 
 #### kaggle
-![competition_light](https://road-to-kaggle-grandmaster.vercel.app/api/badges/zzy990106/competition/light)
+![competition](https://road-to-kaggle-grandmaster.vercel.app/api/badges/renxingkai/competition)
 
 #### github
-<a href="https://github.com/zzy99">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zzy99&count_private=true&show_icons=true&theme=radical" />
+<a href="https://github.com/renxingkai">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats-teal.vercel.app/api/top-langs/?username=chizhu&layout=compact" />
 </a>
+
+### My Social Media 😺
+- kaggle:[Rainbow Cat](https://kaggle.com/renxingkai)
+- Zhihu:[Rainbow Cat](https://www.zhihu.com/people/ren-xing-kai-13)
+- github:[Rainbow Cat](https://github.com/renxingkai)
